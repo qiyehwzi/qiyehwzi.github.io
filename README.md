@@ -1,1 +1,1 @@
-Welcome to Core-Pixel-Lab's website!
+Welcome to Qiyehwzi's website!
