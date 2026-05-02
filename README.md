@@ -1,21 +1,13 @@
-Welcome to Core-Pixel-Lab's website!
+Welcome to Qiyehwzi's website!
 
-# 🎯 Core-Pixel-Lab
-**Electrical Engineer → Vision & Robotics Engineer**
-
----
-
-## 🚀 About Me
-
-Electrical Engineering graduate transitioning into **embedded vision systems** and **robotics control**. Passionate about bridging hardware perception with intelligent motion.
-
-**Core Competencies:**
-- 🎥 **Camera Systems**: ISP tuning, multi-sensor fusion, OpenCV pipelines
-- ⚡ **Embedded Development**: STM32, ARM Cortex-M, FreeRTOS
-- 🤖 **Robotics**: Motor control (FOC), PID, tracking differentiators
-- 🔌 **Communication**: I2C/SPI/UART/CAN, Ethernet, ROS messages
-- 🛠️ **Tools**: ROS/MoveIt, MATLAB, C/C++, Python
+# 👋 Hi, I'm Qiyehwzi
 
 ---
 
-## 📈 GitHub Activity
+## 🔭 What I Do
+- **Embedded Development**: STM32, ARM Cortex-M series, ARM Cortex-A series
+- **Camera & Vision Systems**: Camera drivers, ISP tuning, multi-sensor fusion, 3A, geometry
+- **Robotics & Motion Control**: Motor control algorithms, robotic arm kinematics, frame of camera
+- **Industrial Automation**: PID controllers, tracking differentiators, motion planning,
+
+---
